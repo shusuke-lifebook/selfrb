@@ -6,4 +6,5 @@ source "https://rubygems.org"
 group :development do
   gem "ruby-lsp"
   gem "rubocop"
+  gem 'debug'
 end
