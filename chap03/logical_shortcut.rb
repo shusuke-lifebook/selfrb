@@ -1,3 +1,4 @@
+# typed: strict
 x = 2
 
 puts '実行されました。' if x != 2

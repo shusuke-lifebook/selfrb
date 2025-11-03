@@ -1,3 +1,4 @@
+# typed: strict
 sum = 0
 
 101.times do |i|

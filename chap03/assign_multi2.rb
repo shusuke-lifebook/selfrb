@@ -1,3 +1,4 @@
+# typed: strict
 data = [1, 2, 3]
 a, b, c = data
 

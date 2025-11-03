@@ -1,3 +1,4 @@
+# typed: strict
 msg = 'aiueo'
 msg2 = 'AIUEO'
 

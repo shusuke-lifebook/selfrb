@@ -1,3 +1,4 @@
+# typed: strict
 title = 'WINGSプロジェクト'
 
 puts title.length

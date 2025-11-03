@@ -1,3 +1,4 @@
+# typed: strict
 sum = 0
 
 (100..200).each do |i|

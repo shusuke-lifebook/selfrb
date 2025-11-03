@@ -1,3 +1,4 @@
+# typed: strict
 d1 = 0.2r
 d2 = 3r
 

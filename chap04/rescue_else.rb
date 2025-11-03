@@ -1,3 +1,4 @@
+# typed: strict
 loop do
   print '数値を入力してください：'
   num = Float(gets)

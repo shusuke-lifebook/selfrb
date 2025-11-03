@@ -1,3 +1,4 @@
+# typed: strict
 loop do
   print '名前を入力してください：'
   name = gets.rstrip

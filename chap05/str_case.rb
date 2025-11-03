@@ -1,3 +1,4 @@
+# typed: strict
 data1 = 'Wings Project'
 data2 = 'vii'
 data3 = 'Fußball'

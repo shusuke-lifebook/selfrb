@@ -1,3 +1,4 @@
+# typed: strict
 i = 10
 
 if i == 10

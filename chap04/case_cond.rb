@@ -1,3 +1,4 @@
+# typed: strict
 point = 65
 
 if point >= 60

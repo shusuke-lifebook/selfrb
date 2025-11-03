@@ -1,3 +1,4 @@
+# typed: strict
 msg = "こんにちは\r\n\n\n"
 
 p msg.chomp

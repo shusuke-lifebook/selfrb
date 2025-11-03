@@ -1,3 +1,4 @@
+# typed: strict
 num1 = 10
 num2 = num1
 

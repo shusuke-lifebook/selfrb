@@ -1,3 +1,4 @@
+# typed: strict
 url = 'http://wings.msn.to/hello.php'
 
 puts url.delete_suffix('.php')

@@ -1,3 +1,4 @@
+# typed: strict
 score = 55
 if score >= 70
   puts '合格'

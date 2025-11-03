@@ -1,3 +1,4 @@
+# typed: strict
 i = 100
 
 if i > 30

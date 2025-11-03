@@ -1,3 +1,4 @@
+# typed: strict
 name = '山田'
 puts %(こんにちは、\t#{name}さん)
 puts %(こんにちは、\t#{name}さん)

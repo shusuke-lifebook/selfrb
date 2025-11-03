@@ -1,3 +1,4 @@
+# typed: strict
 data1 = 13
 data2 = 13
 

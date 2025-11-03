@@ -1,3 +1,4 @@
+# typed: strict
 x = 50
 y = x
 x -= 10

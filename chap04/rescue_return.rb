@@ -1,3 +1,4 @@
+# typed: strict
 result = begin
   'begin'
   # 1/ 0

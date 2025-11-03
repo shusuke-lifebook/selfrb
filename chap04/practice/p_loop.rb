@@ -1,3 +1,4 @@
+# typed: strict
 i = 0
 sum = 0
 

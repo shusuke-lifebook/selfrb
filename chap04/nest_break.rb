@@ -1,3 +1,4 @@
+# typed: strict
 1.upto(9) do |i|
   1.upto(9) do |j|
     result = i * j

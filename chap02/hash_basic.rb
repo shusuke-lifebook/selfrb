@@ -1,3 +1,4 @@
+# typed: strict
 data = {
   'name' => '鈴木八郎',
   'depart' => '営業',

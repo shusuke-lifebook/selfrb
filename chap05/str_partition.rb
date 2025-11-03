@@ -1,3 +1,4 @@
+# typed: strict
 msg = 'example.com/index.html'
 
 p msg.partition('.')

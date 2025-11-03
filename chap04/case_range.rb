@@ -1,3 +1,4 @@
+# typed: strict
 point = 62
 
 case point

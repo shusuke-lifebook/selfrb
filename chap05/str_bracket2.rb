@@ -1,3 +1,4 @@
+# typed: strict
 title = 'あいうえお'
 
 title[2..3] = '★★'

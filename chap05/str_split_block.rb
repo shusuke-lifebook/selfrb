@@ -1,3 +1,4 @@
+# typed: strict
 msg = 'ねこ,いぬ,たぬき'
 
 msg.split(',') do |substr|

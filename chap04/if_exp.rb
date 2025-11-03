@@ -1,3 +1,4 @@
+# typed: strict
 i = 10
 
 message = if i == 10

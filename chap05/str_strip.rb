@@ -1,3 +1,4 @@
+# typed: strict
 msg = "  こんにちは \t\n\r"
 
 puts '「' + msg.strip + '」'

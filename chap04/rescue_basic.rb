@@ -1,3 +1,4 @@
+# typed: strict
 begin
   print '数字を入力してください：'
   num = Float(gets)

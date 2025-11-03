@@ -1,3 +1,4 @@
+# typed: strict
 begin
   print '名前を教えてください：'
   name = gets.rstrip

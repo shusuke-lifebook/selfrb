@@ -1,3 +1,4 @@
+# typed: strict
 num = 0
 result = begin
   100 / num

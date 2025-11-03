@@ -1,3 +1,4 @@
+# typed: strict
 puts Rational('0.3')
 puts Rational('1/3')
 puts Rational(1, 3)

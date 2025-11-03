@@ -1,3 +1,4 @@
-loop do
-  puts '続くよどこまでも'
-end
+# typed: strict
+# loop do
+#   puts '続くよどこまでも'
+# end

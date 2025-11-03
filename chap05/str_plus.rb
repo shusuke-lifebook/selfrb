@@ -1,3 +1,4 @@
+# typed: strict
 msg = 'あいうえお'
 nmsg = msg + 'かきくけこ'
 puts msg

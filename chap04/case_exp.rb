@@ -1,3 +1,4 @@
+# typed: strict
 rank = '甲'
 
 puts case rank

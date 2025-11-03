@@ -1,3 +1,4 @@
+# typed: strict
 list = %w[Ruby Python PHP]
 
 case list

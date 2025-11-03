@@ -1,3 +1,4 @@
+# typed: strict
 data2 = [
   [
     %w[Sなし Mなし Lなし],

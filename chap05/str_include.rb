@@ -1,3 +1,4 @@
+# typed: false
 msg = 'WINGSプロジェクト'
 
 puts msg.include?('プロ')

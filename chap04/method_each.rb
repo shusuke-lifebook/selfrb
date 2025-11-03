@@ -1,3 +1,4 @@
+# typed: strict
 data = %w[うめ さくら もも]
 
 data.each do |item|

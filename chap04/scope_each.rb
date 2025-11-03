@@ -1,3 +1,4 @@
+# typed: false
 data = %w[うめ さくら もも]
 
 data.each do |item|

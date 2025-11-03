@@ -1,3 +1,4 @@
+# typed: true
 # 引数sexがmaleであるかを判定する
 def male?(sex)
   sex == 'male'

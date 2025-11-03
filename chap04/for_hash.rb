@@ -1,3 +1,4 @@
+# typed: strict
 data = { orage: 'みかん', apple: 'りんご', grape: 'ぶどう' }
 
 for key, value in data

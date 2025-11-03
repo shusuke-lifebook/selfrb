@@ -1,3 +1,4 @@
+# typed: false
 loop do
   print '名前を教えてください：'
   # ユーザーからの入力を待ち受け

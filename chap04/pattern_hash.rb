@@ -1,3 +1,4 @@
+# typed: strict
 result = { status: :done, value: '完了' }
 
 puts case result

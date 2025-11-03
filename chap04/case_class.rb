@@ -1,3 +1,4 @@
+# typed: false
 value = 'Hoge'
 
 case value

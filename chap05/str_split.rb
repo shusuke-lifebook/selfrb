@@ -1,3 +1,4 @@
+# typed: strict
 msg = ' ねこ いぬ たぬき '
 msg2 = 'ねこ|いぬ|たぬき'
 
