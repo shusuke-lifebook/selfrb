@@ -3,6 +3,9 @@
 --ignore=/tmp/
 --ignore=/vendor/bundle
 --suppress-error-code=3003
+--suppress-error-code=4010
 --suppress-error-code=4022
+--suppress-error-code=5003
 --suppress-error-code=5012
+--suppress-error-code=5046
 --suppress-error-code=5067

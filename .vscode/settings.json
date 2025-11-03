@@ -31,6 +31,6 @@
   },
 
   "sorbet.enabled": true,
-  "sorbet.useBundler": true,
-  "sorbet.pathToSorbet": "bundle exec srb"
+  // "sorbet.useBundler": true,
+  // "sorbet.pathToSorbet": "bundle exec srb"
 }

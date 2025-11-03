@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 
 # gem "rails"
 group :development do
+  gem 'activesupport'
   gem 'debug'
   gem 'ostruct'         # ← Ruby 3.5.0以降の警告対策
   gem 'rake'            # ← 同上
