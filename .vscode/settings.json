@@ -22,4 +22,15 @@
     "hover": true,
     "signatureHelp": true
   },
+
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/tmp":true,
+    // "**/vendor/":true
+  },
+
+  "sorbet.enabled": true,
+  "sorbet.useBundler": true,
+  "sorbet.pathToSorbet": "bundle exec srb"
 }
