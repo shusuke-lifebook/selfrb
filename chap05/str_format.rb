@@ -1,4 +1,6 @@
 # typed: false
+# frozen_string_literal: true
+
 puts printf('%sは%s、%d歳です。', 'サクラ', '女の子', 1)
 puts printf('名前は%1$s、%3$d歳です。%1$sは、元気です。', 'サクラ', '女の子', 1)
 puts printf('%5sです。', 'サクラ')

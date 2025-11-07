@@ -1,4 +1,6 @@
 # typed: false
+# frozen_string_literal: true
+
 msg = 'WINGSプロジェクト'
 
 puts msg.include?('プロ')

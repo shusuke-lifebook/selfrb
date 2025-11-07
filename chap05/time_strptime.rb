@@ -1,4 +1,6 @@
 # typed: strict
+
+# fron  zen_string_literal: true
 require 'time'
 require 'date'
 

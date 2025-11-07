@@ -1,4 +1,6 @@
 # typed: strict
+
+# fron  zen_string_literal: true
 i = 1
 
 until i > 5

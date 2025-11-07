@@ -1,4 +1,7 @@
 # typed: strict
+
+# fron zen_string_literal: true
+
 score = 55
 if score >= 70
   puts '合格'

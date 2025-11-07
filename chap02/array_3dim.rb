@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 data2 = [
   [
     %w[Sなし Mなし Lなし],

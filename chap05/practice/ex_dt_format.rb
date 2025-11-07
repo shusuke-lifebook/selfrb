@@ -1,4 +1,5 @@
 # typed: strict
+# frozen_string_literal: true
 
 tm = Time.new(2021, 6, 25, 11, 37, 25, '+08:00')
 tm2 = tm + (5 * 60 * 60 * 24 * 7)

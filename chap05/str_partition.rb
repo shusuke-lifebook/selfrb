@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 msg = 'example.com/index.html'
 
 p msg.partition('.')

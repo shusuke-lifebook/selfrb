@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 require 'time'
 
 dt = Time.mktime(2020, 12, 4, 11, 35, 57)

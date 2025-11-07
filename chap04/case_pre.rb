@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 rank = '甲'
 
 if rank == '甲'

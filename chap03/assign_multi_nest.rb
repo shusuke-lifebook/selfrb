@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 data = [1, 2, [31, 32, 33]]
 
 a, b, c = data

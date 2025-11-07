@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 sum = 0
 
 101.times do |i|

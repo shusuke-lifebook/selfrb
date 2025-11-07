@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 result = { status: :done, value: '完了' }
 
 puts case result

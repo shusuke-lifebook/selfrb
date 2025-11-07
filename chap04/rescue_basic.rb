@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 begin
   print '数字を入力してください：'
   num = Float(gets)

@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 i = 10
 
 message = if i == 10

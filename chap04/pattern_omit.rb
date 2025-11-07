@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 book = {title: '独習Java', publisher: '翔泳社', authors:['山田太郎', '鈴木次郎']}
 book => {title:, authors:}
 

@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 msg = "おはよう\nこんにちは\nこんばんは\n\nさようなら"
 msg2 = "おはよう\r\nこんにちは\r\nこんばんは\r\nさようなら"
 

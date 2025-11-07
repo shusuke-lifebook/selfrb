@@ -1,0 +1,12 @@
+{
+  "Ruby file header": {
+    "prefix": "rbheader",
+    "body": [
+      "# typed: strict",
+      "# frozen_string_literal: true",
+      "",
+      "$0"
+    ],
+    "description": "Insert Sorbet and frozen string literal header"
+  }
+}

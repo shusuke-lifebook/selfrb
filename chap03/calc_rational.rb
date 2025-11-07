@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 d1 = 0.2r
 d2 = 3r
 

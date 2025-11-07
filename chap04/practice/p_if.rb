@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 point = 75
 
 if point >= 90

@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 require 'date'
 
 puts Time.mktime(2021, 6, 25, 11, 37, 25, 103)

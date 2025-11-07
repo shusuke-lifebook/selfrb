@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 begin
   print '名前を教えてください：'
   name = gets.rstrip

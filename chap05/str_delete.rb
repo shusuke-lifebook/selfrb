@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 url = 'http://wings.msn.to/hello.php'
 
 puts url.delete_suffix('.php')

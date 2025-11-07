@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 title = 'あいうえお'
 
 title[2..3] = '★★'

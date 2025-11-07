@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 puts Rational('0.3')
 puts Rational('1/3')
 puts Rational(1, 3)

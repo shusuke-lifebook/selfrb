@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 msg = "  こんにちは \t\n\r"
 
 puts '「' + msg.strip + '」'

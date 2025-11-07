@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 data1 = 'Wings Project'
 data2 = 'vii'
 data3 = 'Fußball'

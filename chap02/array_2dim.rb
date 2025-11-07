@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 data = [
   %w[X-1 X-2 X-3],
   %w[Y-1 Y-2 Y-3],

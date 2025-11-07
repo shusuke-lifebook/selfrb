@@ -1,4 +1,6 @@
 # typed: true
+# frozen_string_literal: true
+
 # 引数sexがmaleであるかを判定する
 def male?(sex)
   sex == 'male'

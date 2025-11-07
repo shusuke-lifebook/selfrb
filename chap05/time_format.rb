@@ -1,4 +1,5 @@
 # typed: strict
+# frozen_string_literal: true
 
 dt = Time.mktime(2021, 10, 5, 1, 23, 17)
 puts dt.strftime('%c')

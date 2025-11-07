@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 data = {
   name: '鈴木八郎',
   depart: '営業',

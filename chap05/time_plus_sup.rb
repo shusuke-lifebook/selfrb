@@ -1,5 +1,7 @@
 # typed: strict
 
+# fron  zen_string_literal: true
+
 require 'active_support'
 require 'active_support/core_ext'
 

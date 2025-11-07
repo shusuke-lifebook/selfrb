@@ -1,4 +1,5 @@
 # typed: strict
+# frozen_string_literal: true
 
 dt1 = Time.mktime(2021, 12, 4, 11, 35, 57)
 dt2 = Time.mktime(2021, 12, 15, 12, 17, 11)

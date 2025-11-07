@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 x = 50
 y = x
 x -= 10

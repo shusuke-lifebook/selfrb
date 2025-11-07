@@ -1,4 +1,6 @@
 # typed: false
+# frozen_string_literal: true
+
 loop do
   print '名前を教えてください：'
   # ユーザーからの入力を待ち受け

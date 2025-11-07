@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 result = begin
   'begin'
   # 1/ 0

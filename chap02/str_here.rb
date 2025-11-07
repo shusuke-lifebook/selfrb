@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 str = 'Ruby'
 msg = <<~EOS
   #{str}は、日本で開発されたプログラミング言語です。

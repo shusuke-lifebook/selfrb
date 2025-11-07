@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 case { title: '独習Java新版', price: 2980 }
 in { title: '独習Java新版', price: } if price < 3000
   puts "お値段は#{price}円です！"

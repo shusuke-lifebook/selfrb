@@ -1,5 +1,7 @@
 # typed: strict
 
+# "fronzen_string_literal: true"
+
 dt = Time.now
 puts dt
 puts dt.utc

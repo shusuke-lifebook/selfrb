@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 list = %w[Ruby Python PHP]
 
 case list

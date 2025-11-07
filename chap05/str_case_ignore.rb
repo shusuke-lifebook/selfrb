@@ -1,4 +1,6 @@
 # typed: strict
+# frozen_string_literal: true
+
 msg = 'aiueo'
 msg2 = 'AIUEO'
 
