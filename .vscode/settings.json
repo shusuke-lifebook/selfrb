@@ -5,6 +5,8 @@
   "workbench.colorTheme": "Monokai",
   // Rubyファイルに対してRuby LSPをフォーマッタとして設定
   "[ruby]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
     "editor.defaultFormatter": "Shopify.ruby-lsp",
     "editor.formatOnSave": true
   },
