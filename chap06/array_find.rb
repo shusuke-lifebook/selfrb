@@ -1,4 +1,5 @@
 # typed: strict
+# frozen_string_literal: true
 
 data = [
   { title: '独習 Python', price: 3000 },

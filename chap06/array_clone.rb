@@ -1,4 +1,5 @@
 # typed: strict
+# frozen_string_literal: true
 
 data = %w[赤 白 青 黒 緑]
 data2 = data.clone

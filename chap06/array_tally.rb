@@ -1,4 +1,5 @@
 # typed: strict
+# frozen_string_literal: true
 
 data = %w[赤 赤 白 白 青 赤 白 赤 白 青 赤 白]
 puts data.tally

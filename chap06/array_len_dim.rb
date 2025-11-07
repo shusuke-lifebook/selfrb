@@ -1,4 +1,5 @@
 # typed: strict
+# frozen_string_literal: true
 
 data = [
   %w[Sみかん Mみかん Lみかん],

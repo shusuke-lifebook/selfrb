@@ -1,4 +1,5 @@
 # typed: strict
+# frozen_string_literal: true
 
 data = %w[ひまわり ばら カサブランカ チューリップ 萩]
 puts data.count('ばら')

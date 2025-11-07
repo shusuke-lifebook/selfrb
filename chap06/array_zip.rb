@@ -1,4 +1,5 @@
 # typed: strict
+# frozen_string_literal: true
 
 data1 = %w[ぱんだ うさぎ こあら とら]
 data2 = %w[panda rabbit koala]

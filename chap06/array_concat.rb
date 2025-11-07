@@ -1,4 +1,5 @@
 # typed: strict
+# frozen_string_literal: true
 
 data1 = %w[山田 鈴木 日尾]
 data2 = %w[本多 掛谷]

@@ -1,4 +1,5 @@
 # typed: strict
+# frozen_string_literal: true
 
 data = %w[山田 鈴木 日尾 本多 掛谷]
 p data.values_at(1, 2, 10)
