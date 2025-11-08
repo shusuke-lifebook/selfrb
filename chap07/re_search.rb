@@ -1,0 +1,10 @@
+# typed: strict
+# frozen_string_literal: true
+
+msg = '電話番号は080-111-9999です！'
+if /\d{2,4}-\d{2,4}-\d{4}/ === msg # rubocop:disable Style/CaseEquality
+  # if /\A\d{2,4}-\d{2,4}-\d{4}\z/ === msg
+  puts '電話番号を発見！'
+else
+  puts '見つかりませんでした...'
+end
