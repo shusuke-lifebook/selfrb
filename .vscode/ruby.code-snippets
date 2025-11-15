@@ -2,7 +2,7 @@
   "Ruby file header": {
     "prefix": "rbheader",
     "body": [
-      "# typed: strict",
+      "# typed: true",
       "# frozen_string_literal: true",
       "",
       "$0"

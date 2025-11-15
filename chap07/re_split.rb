@@ -1,0 +1,5 @@
+# typed: true
+# frozen_string_literal: true
+
+msg = '100,150;200|250,300;350'
+p msg.split(/,|\||;/)
