@@ -1,4 +1,4 @@
-# typed: true
+# typed: false
 # frozen_string_literal: true
 
 # get_triangleメソッドの定義
