@@ -10,3 +10,4 @@
 --suppress-error-code=5046
 --suppress-error-code=5067
 --suppress-error-code=7001
+--suppress-error-code=7002
